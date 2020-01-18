@@ -33,10 +33,15 @@ img{
 }
 @media (min-width: 320px) and (max-width: 480px){
   div{
-    width: 300px;
+    width: 310px;
   }
   body{
     font-size: 20px;
+  }
+  .profile {
+    padding-left: 10px;
+    width: 100px;
+    float:right;
   }
 }
 .insta{
