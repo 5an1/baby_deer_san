@@ -31,21 +31,6 @@ a{
 img{
   width: 300px;
 }
-@media only screen
-and (max-width : 320px)
-{
-  div{
-    width: 310px;
-  }
-  body{
-    font-size: 20px;
-  }
-  .profile {
-    padding-left: 10px;
-    width: 100px;
-    float:right;
-  }
-}
 .insta{
   width: 30px;
 }
