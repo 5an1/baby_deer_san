@@ -31,7 +31,9 @@ a{
 img{
   width: 300px;
 }
-@media screen and (max-width: 576px){
+@media only screen
+and (max-width : 320px)
+{
   div{
     width: 310px;
   }
